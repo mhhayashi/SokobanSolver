@@ -6,7 +6,7 @@ Created using Intellij IDEA CE and Java 17.
 
 To run:
 
-Use Jar from out/artifacts
+Compiled Jar is in releases.
 
 java -jar -Xmx2G javaSolver.jar {Puzzle File Path} {# Threads (optional)}
 
